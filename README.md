@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRAx5VsvQl75wyY-i1I57YIkdmu7oonSlqlMgFNPfdh72sgVVl1PCvrHE9uspMREQkUQla4Ux5jaSUuMrJrtNe-J7h-tcJpEPjCf_kSkLQr4Zja6_m8NKI07PfFY0FU4BjF62Qj62sBMXBf969UPokw_6_X5vV5U4m6ODPMcPwhmc6GfOX9n17rxp1iJU/w493-h282/image.png" alt="myimage" style="width:100%;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="myimage" style="width:100%;"/>
 
 # 💫 About Me:
 👋 Hi, I'm Maroof Hasan Khan!<br><br>🔭 I’m currently working on a deep learning project as an SDE Intern at SMILe Digital and AI Labs.<br>👯 I’m looking to collaborate on web development and machine learning projects.<br>🤝 I’m looking for help with expanding my deep learning expertise and backend development with Node.js.<br>🌱 I’m currently learning backend technologies (Node.js) and deep learning frameworks.<br>💬 Ask me about web development, Deep learning projects, and building dynamic digital solutions.<br>⚡ Fun fact: My tech journey started from a curiosity to understand how websites work—and now I’m creating them!
